@@ -10,3 +10,11 @@ Prerequisites:
 - Scan QR code from wireless debugging menu Developer options > Wireless debugging > Pair device with QR code
 - Phone should be unlocked to use
 - Unlock screens (fingerprint prompts) happen in the phone, cannot be done in mac
+
+# Usage:
+- Download build.sh to local folder
+- cd /path/to/local/folder
+- chmod +x build.sh
+- ./build.sh
+
+- Run app from Application folder
